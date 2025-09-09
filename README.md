@@ -1,13 +1,10 @@
 
-> I've got a better website now. Star it [here](https://github.com/realsnipc/snipc.me)
+> This is the first personal website which stayed localhost for a while.
 
 
 
 ![HTML](/img/snipc.png)
 
-
-
-  `RIP 2022-2024`
 
 
 
